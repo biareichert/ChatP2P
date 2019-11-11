@@ -1,0 +1,15 @@
+
+------ Passo a Passo ------
+
+1- No terminal 1 lance o servidor;
+  $make server
+
+2- No terminal 2 lance um cliente;
+  $make client host
+
+3- No terminal 3 lance um cliente;
+  $make client host
+
+------ Observações ------
+
+Onde indica "host" você deve escrever o host do servidor, por exemplo, localhost.
